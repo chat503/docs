@@ -22,9 +22,9 @@
             ]
           },
           {
-            "group": "Módulos",
+            "group": "Modulos",
             "pages": [
-              "Modulos/Inbox"
+              "modulos/inbox"
               "essentials/markdown",
               "essentials/code",
               "essentials/images",
